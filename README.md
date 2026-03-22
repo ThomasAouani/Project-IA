@@ -1,5 +1,5 @@
 # Projet-IA
-Modélisation de la demande matériau liée à la demande en intelligence artificielle.
+## Modélisation de la demande matériau liée à la demande en intelligence artificielle.
 
 A l'heure où l'intelligence artificielle (IA) explose et devient la 4e grande révolution technologique, nous sommes constamment exposés au challenge énergétique qui en découle. Cependant, l'aspect matériel est quant à lui très peu souvent abordé. Cette étude a pour but de mettre le doigt sur les consommations en matériaux pour soutenir la demande de l'IA.
 
